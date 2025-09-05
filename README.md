@@ -9,7 +9,7 @@ I am a 3rd-year B.Tech student passionate about Data Structures, Algorithms, Web
 *Projects*  
 - College Management System  
 - Portfolio Website  
-- Machine Learning Mini-Projects  
+- bitcoin price predection using LSTM 
 
 *Contact*  
 [Email](gangavaramshreyasi@gmail.com)
